@@ -26,6 +26,7 @@
 ## Front-end
 
 - https://github.com/pmndrs/zustand
+- https://flaviocopes.com/update-npm-dependencies/
 
 ## Tools
 
