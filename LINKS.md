@@ -11,6 +11,7 @@
 ## Azure
 
 * [https://microsoft.github.io/AzureTipsAndTricks/](https://microsoft.github.io/AzureTipsAndTricks/)
+* [https://harrybellamy.com/posts/application-insights-logging-in-azure-functions/](https://harrybellamy.com/posts/application-insights-logging-in-azure-functions/)
 
 ## .NET
 
