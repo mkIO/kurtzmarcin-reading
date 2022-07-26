@@ -8,6 +8,10 @@
 * [https://altkomsoftware.pl/en/blog/service-discovery-eureka/](https://altkomsoftware.pl/en/blog/service-discovery-eureka/)
 * [https://azure.microsoft.com/en-us/blog/advancing-application-reliability-with-the-azure-wellarchitected-framework/](https://azure.microsoft.com/en-us/blog/advancing-application-reliability-with-the-azure-wellarchitected-framework/)
 
+## Guidelines and other
+* [https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+* [https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
+
 ## Azure
 
 * [https://microsoft.github.io/AzureTipsAndTricks/](https://microsoft.github.io/AzureTipsAndTricks/)
